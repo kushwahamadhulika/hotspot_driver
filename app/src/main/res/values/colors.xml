@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#F8933D</color>
+    <color name="colorPrimaryDark">#EE7F22</color>
+    <color name="colorSecondary">#fa9947</color>
+    <color name="colorSecondarylight">#f8933d</color>
+
+    <color name="colorAccent">#2F3535</color></resources>
